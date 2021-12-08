@@ -12,11 +12,11 @@ export default function Home() {
 
       <main>
         <Header title="Swetha Minukuri" />
+        <h1 style={{ color: 'green' }}>This document is valid</h1>
         <Header title="Swetha Minukuri" />
-    <Header title="Swetha Minukuri" />
-    <Header title="Swetha Minukuri" />
-    <Header title="Swetha Minukuri" />
-    <Header title="Swetha Minukuri" />
+        <Header title="Swetha Minukuri" />
+        <Header title="Swetha Minukuri" />
+        <Header title="Swetha Minukuri" />
         
 
       </main>
