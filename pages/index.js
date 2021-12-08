@@ -11,13 +11,14 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Swetha Minukuri" />
+        <Header title="Name: Swetha Minukuri" />
+    <div>
         <p style={{ color: 'green' }}>This document is valid </p>
-        <p> This is valid document </p>
-        <Header title="Swetha Minukuri" />
-        <Header title="Swetha Minukuri" />
-        <Header title="Swetha Minukuri" />
-        
+        <p> Generated at:	2021-12-09 07:20 </p>
+        <p> File name:	Swetha_Minukuri_20211209_222011.pdf </p>
+        <p> Serial number:	142182072934 </p>
+        <p> Document hash:	2dda10d657f1ce21904e2ebe546fc58d42ce25f768c309de1e843ed4b0ba592d </p>
+     </div>
 
       </main>
 
