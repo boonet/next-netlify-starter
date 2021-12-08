@@ -12,6 +12,12 @@ export default function Home() {
 
       <main>
         <Header title="Swetha Minukuri" />
+        <Header title="Swetha Minukuri" />
+    <Header title="Swetha Minukuri" />
+    <Header title="Swetha Minukuri" />
+    <Header title="Swetha Minukuri" />
+    <Header title="Swetha Minukuri" />
+        
 
       </main>
 
