@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <img src={require('../TrustOne.png')}></img>
+        <img src={require('TrustOne.png')}></img>
         <Header title="Swetha Minukuri" />
      <div>
         <p style={{ color: 'green' }}>This document is valid</p>
