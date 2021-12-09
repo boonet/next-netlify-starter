@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header  style={{color:green}} title="This document is valid" />
-    <div>
-        <p style={{ color: 'green' }}>Name: Swetha minukuri </p>
+        <Header title="Swetha Minukuri" />
+     <div>
+        <p style={{ color: 'green' }}>This document is valid</p>
         <p> Test:	Fit to fly PCR </p>
         <p> Test Location: Dagenham Asda, Greater London </p>
         <p>RESULT: NEGATIVE</p>
