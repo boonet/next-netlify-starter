@@ -12,6 +12,7 @@ export default function Home() {
       </Head>
 
       <main>
+    <img src="/TrustOne.png" alt="Netlify Logo" className={styles.logo} />
         <Header title="Swetha Minukuri" />
      <div>
         <p style={{ color: 'green' }}>This document is valid</p>
