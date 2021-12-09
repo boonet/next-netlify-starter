@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
+import TrustOne from '../images/TrustOne.png'
 
 export default function Home() {
   return (
@@ -11,6 +12,7 @@ export default function Home() {
       </Head>
 
       <main>
+        <img src={TrustOne}></img>
         <Header title="Swetha Minukuri" />
      <div>
         <p style={{ color: 'green' }}>This document is valid</p>
