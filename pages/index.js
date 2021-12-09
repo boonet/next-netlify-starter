@@ -11,8 +11,8 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Name: Swetha Minukuri" />
-    <div>
+        <Header  style={{textAlign: 'left'}} title="Swetha Minukuri" />
+    <div style={{textAlign: 'left'}}>
         <p style={{ color: 'green' }}>This document is valid </p>
         <p> Test:	Fit to fly PCR </p>
         <p> Test Location: Dagenham Asda, Greater London </p>
