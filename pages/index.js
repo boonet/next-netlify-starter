@@ -11,12 +11,12 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header  style={{textAlign: 'left'}} title="Swetha Minukuri" />
-    <div style={{textAlign: 'left'}}>
-        <p style={{ color: 'green' }}>This document is valid </p>
+        <Header  style={{color:green}} title="This document is valid" />
+    <div>
+        <p style={{ color: 'green' }}>Name: Swetha minukuri </p>
         <p> Test:	Fit to fly PCR </p>
         <p> Test Location: Dagenham Asda, Greater London </p>
-        <p>RESULT:</p><p style={{ color: 'green', style:'bold' }}>NEGATIVE</p>
+        <p>RESULT: NEGATIVE</p>
         <p> Generated at:	2021-12-09 07:20 </p>
         <p> File name:	Swetha_Minukuri_20211209_222011.pdf </p>
         <p> Serial number:	142182072934 </p>
